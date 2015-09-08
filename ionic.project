@@ -1,0 +1,12 @@
+{
+  "name": "ionic-start-eventmaps-combined",
+  "app_id": "f0ad7533",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
